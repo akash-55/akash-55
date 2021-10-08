@@ -9,7 +9,7 @@ Skills: JAVA/REACT / JS / HTML / CSS
 
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akash-55&show_icons=true&theme=dark) 
-<img align="right" height='auto' width="45%" src="https://cdn.dribbble.com/users/556848/screenshots/13869074/media/279e13428923bf9cada12e4c8f6f4f0d.jpg" /> 
+<img align="right" height='auto' width="35%" src="https://cdn.dribbble.com/users/556848/screenshots/13869074/media/279e13428923bf9cada12e4c8f6f4f0d.jpg" /> 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akash-55) </a>
 
 
