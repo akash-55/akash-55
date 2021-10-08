@@ -8,7 +8,8 @@ Skills: JAVA/REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akash-55)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Akashhdev)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-55)](https://github.com/anuraghazra/github-readme-stats)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akash-55&show_icons=true&theme=dark)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akash-55&show_icons=true)  
 
