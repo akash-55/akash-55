@@ -7,9 +7,14 @@ Skills: JAVA/REACT / JS / HTML / CSS
 
 
 
+<p>
+<a align= "center" href="https://github.com/ishikkkkaaaa">
+<img alt= "stats card" height="200px" width="500" src="https://github-readme-stats.vercel.app/api?username=akash-55&show_icons=true&theme=dark">
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/10238968/media/4669ba456dabadcbb770f8db5e4eac46.png?compress=1&resize=1600x1200" /> </a>
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akash-55&show_icons=true&theme=dark) 
-<img align="right" height='auto' width="40%" src="https://cdn.dribbble.com/users/2131993/screenshots/10238968/media/4669ba456dabadcbb770f8db5e4eac46.png?compress=1&resize=1600x1200" /> 
+ 
+ 
+ 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akash-55) </a>
 
 
@@ -21,3 +26,5 @@ Skills: JAVA/REACT / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akash-55) 
   
 ![Profile views](https://gpvc.arturio.dev/akash-55)  
+
+
