@@ -9,14 +9,11 @@ Skills: JAVA/REACT / JS / HTML / CSS
 
 <p>
 <a align= "center" href="https://github.com/ishikkkkaaaa">
-<img alt= "stats card" height="200px" width="500" src="https://github-readme-stats.vercel.app/api?username=akash-55&show_icons=true&theme=dark">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/10238968/media/4669ba456dabadcbb770f8db5e4eac46.png?compress=1&resize=1600x1200" /> </a>
+<img alt= "stats card" height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=akash-55&show_icons=true&theme=dark">
+<img align="right" height="350" width="auto" src="https://cdn.dribbble.com/users/2131993/screenshots/10238968/media/4669ba456dabadcbb770f8db5e4eac46.png?compress=1&resize=1600x1200" /> </a>
 
+<img alt= "streak stats" height="200px" width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-55">
  
- 
- 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akash-55) </a>
-
 
 [![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=akash-55&theme=react-dark)](https://github.com/akash-55/github-readme-activity-graph)
 
