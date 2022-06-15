@@ -1,5 +1,5 @@
 # <p align="center">Hi there 👋, I'm Akash
-## I’m a 3rd-year student pursuing a Bachelors’s in Computer science. I am a web developer and ML entusiast.
+## I’m a 3rd-year student pursuing a Bachelors’s in Computer science. I am a software engineer.
 - I'm currently Learning Data structures and algorithms using Java
 
 Skills: JAVA/REACT / JS / HTML / CSS
