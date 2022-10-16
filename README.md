@@ -2,7 +2,7 @@
 ## I’m a 3rd-year student pursuing a Bachelors’s in Computer science. I am a software engineer.
 - I'm currently Learning Data structures and algorithms using Java
 
-Skills: JAVA/REACT / JS / HTML / CSS
+Skills: JAVA/ REACT / JS / HTML / CSS
 
 
 <p>
@@ -18,7 +18,7 @@ Skills: JAVA/REACT / JS / HTML / CSS
 [![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=akash-55&theme=react-dark)](https://github.com/akash-55/github-readme-activity-graph)
 
 
-- 📫 Contact me: akash590@icloud.com 
+- 📫 Contact me: akash0509@hotmail.com 
  
 <br>
 
