@@ -26,7 +26,7 @@ Skills: JAVA/ Python / REACT / JS / React.js / HTML / CSS
 
 <br>
 
-<h4> some of my projects are:</h4>
+<h3> Some of my projects are:</h3>
 <p>Disneyplus clone</p>
 <p><a href="https://github.com/akash-55/Airbnb-react-clone">Airbnb mobile frontend </a> </p>
 <p> Algorithm Visualizer </p>
