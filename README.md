@@ -1,8 +1,8 @@
 # <p align="center">Hi there 👋, I'm Akash
-## I’m a 3rd-year student pursuing a Bachelors’s in Computer science. I am a software engineer.
-- I'm currently Learning Data structures and algorithms using Java
+## I’m Studying Master of computer and information sciences at Auckland University Of technology.
 
-Skills: JAVA/ REACT / JS / HTML / CSS
+
+Skills: JAVA/ Python / REACT / JS / React.js / HTML / CSS
 
 
 <p>
@@ -14,11 +14,11 @@ Skills: JAVA/ REACT / JS / HTML / CSS
 <img alt= "stats card" height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=akash-55&show_icons=true&theme=dark">
 
  
+<!-- 
+[![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=akash-55&theme=react-dark)](https://github.com/akash-55/github-readme-activity-graph) -->
 
-[![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=akash-55&theme=react-dark)](https://github.com/akash-55/github-readme-activity-graph)
 
 
-- 📫 Contact me: akash0509@hotmail.com 
  
 <br>
 
@@ -26,6 +26,15 @@ Skills: JAVA/ REACT / JS / HTML / CSS
 
 <br>
 
-![Profile views](https://gpvc.arturio.dev/akash-55)  
+<h4> some of my projects are:</h4>
+<p>Disneyplus clone</p>
+<p><a href="https://github.com/akash-55/Airbnb-react-clone">Airbnb mobile frontend </a> </p>
+<p> Algorithm Visualizer </p>
+<p> Portfolio </p>
+
+<!-- ![Profile views](https://gpvc.arturio.dev/akash-55)   -->
+
+
+- 📫 Contact me: akash0509@hotmail.com 
 
 
