@@ -2,7 +2,7 @@
 ## I’m Studying Master of computer and information sciences at Auckland University Of technology.
 
 
-Skills: JAVA/ Python / REACT / JS / React.js / HTML / CSS
+Skills: JS / Python /  React.js / HTML / CSS / JAVA / Machine learning
 
 
 <p>
@@ -20,11 +20,7 @@ Skills: JAVA/ Python / REACT / JS / React.js / HTML / CSS
 
 
  
-<br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akash-55) 
-
-<br>
 
 <h3> Some of my projects are:</h3>
 
@@ -37,5 +33,11 @@ Skills: JAVA/ Python / REACT / JS / React.js / HTML / CSS
 
 
 - 📫 Contact me: akash0509@hotmail.com 
+
+<br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akash-55) 
+
+<br>
 
 
