@@ -29,7 +29,7 @@ Skills: JAVA/ Python / REACT / JS / React.js / HTML / CSS
 <h3> Some of my projects are:</h3>
 <p>Disneyplus clone</p>
 <p><a href="https://github.com/akash-55/Airbnb-react-clone">Airbnb mobile frontend </a> </p>
-<p> Algorithm Visualizer </p>
+<p><a href="https://lambent-kataifi-759989.netlify.app/">Algorithm Visualizer </p>
 <p> Portfolio </p>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/akash-55)   -->
