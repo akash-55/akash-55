@@ -23,7 +23,8 @@ Skills: JS / Python /  React.js / HTML / CSS / JAVA / Machine learning
 
 
 <h3> Some of my projects are:</h3>
-
+ 
+<p><a href="https://github.com/akash-55/aws-cloud-architecture">AWS Cloud Solution</a> </p>
 <p><a href="https://github.com/akash-55/Airbnb-react-clone">Airbnb mobile frontend </a> </p>
 <p><a href="https://github.com/akash-55/Auckland-PM2.5-analysis">Auckland particulate matter analysis</p>
 <p><a href="https://lambent-kataifi-759989.netlify.app/">Algorithm Visualizer </p>
