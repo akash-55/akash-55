@@ -2,8 +2,12 @@
 ## I’m Studying Master of Computer and Information Sciences at Auckland University of Technology.
 
 
-Skills: JS / Python /  React.js / HTML / CSS / C# / Machine learning
-
+## Skills: 
+Programming languages: Python, JavaScript. </br>
+Cloud: Azure, Git/GitHub, AWS.  </br>
+Data Analysis: Data Visualization, Data Mining, Predictive Modelling, Pandas, scikit-learn.  </br>
+Frontend & Web: React, HTML5, CSS3, Figma.  </br>
+Databases: SQL.  </br>
 
 <p>
 <img align="right" height="350" width="350" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif" /> 
@@ -17,15 +21,13 @@ Skills: JS / Python /  React.js / HTML / CSS / C# / Machine learning
 <!-- 
 [![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=akash-55&theme=react-dark)](https://github.com/akash-55/github-readme-activity-graph) -->
 
+## Some of my projects are:
 
-
- 
-
-
-<h3> Some of my projects are:</h3>
- 
+<p><a href="https://github.com/akash-55/Online-payment-fraud-detection">Online Payment Fraud Detection</a> </p>
+<p><a href="https://github.com/akash-55/EEG_classification">Classification Of Alcoholic and Non-Alcoholic Subjects using Spiking Neural Network</a> </p>
+<p><a href="https://github.com/akash-55/Helpfulness-of-Amazon-Kindle-Reviews-Using-Machine-Learning">Helpfulness-of-Amazon-Kindle-Reviews-Using-Machine-Learning</a> </p>
 <p><a href="https://github.com/akash-55/aws-cloud-architecture">AWS Cloud Solution</a> </p>
-<p><a href="https://github.com/akash-55/Airbnb-react-clone">Airbnb mobile frontend </a> </p>
+<p><a href="https://github.com/akash-55/SQL-Sales-Analysis-Project">SQL-Sales-Analysis-Project</a> </p>
 <p><a href="https://github.com/akash-55/Auckland-PM2.5-analysis">Auckland particulate matter analysis</p>
 <p><a href="https://lambent-kataifi-759989.netlify.app/">Algorithm Visualizer </p>
 
