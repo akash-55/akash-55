@@ -1,5 +1,5 @@
 # <p align="center">Hi there 👋, I'm Akash
-## I’m Studying Master of Computer and Information Sciences at Auckland University of Technology.
+## Recent graduate with a Master of Computer and Information Sciences at Auckland University of Technology.
 
 
 ## Skills: 
