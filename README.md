@@ -23,7 +23,8 @@ Databases: SQL.  </br>
 
 ## Some of my projects are:
 
-<p><a href="https://github.com/akash-55/Online-payment-fraud-detection">Online Payment Fraud Detection</a> </p>
+<p><a href="https://bitly.cx/hoQ6">Appointment Scheduler</a> </p> 
+<p><a href="https://github.com/akash-55/Online-payment-fraud-detection">Online Payment Fraud Detection</a> </p> 
 <p><a href="https://github.com/akash-55/EEG_classification">Classification Of Alcoholic and Non-Alcoholic Subjects using Spiking Neural Network</a> </p>
 <p><a href="https://github.com/akash-55/Helpfulness-of-Amazon-Kindle-Reviews-Using-Machine-Learning">Helpfulness-of-Amazon-Kindle-Reviews-Using-Machine-Learning</a> </p>
 <p><a href="https://github.com/akash-55/aws-cloud-architecture">AWS Cloud Solution</a> </p>
